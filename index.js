@@ -11,7 +11,7 @@ var game = create_game({
     'grass',
     'plank'
   ],
-  playerSkin: './img/player.png',
+  playerSkin: '/img/player.png',
   generateVoxelChunks: false,
   chunkDistance: 1
 })
